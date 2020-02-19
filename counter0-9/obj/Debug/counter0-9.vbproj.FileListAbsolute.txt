@@ -1,0 +1,11 @@
+C:\Users\test001\source\repos\counter0-9\counter0-9\bin\Debug\counter0-9.exe.config
+C:\Users\test001\source\repos\counter0-9\counter0-9\bin\Debug\counter0-9.exe
+C:\Users\test001\source\repos\counter0-9\counter0-9\bin\Debug\counter0-9.pdb
+C:\Users\test001\source\repos\counter0-9\counter0-9\bin\Debug\counter0-9.xml
+C:\Users\test001\source\repos\counter0-9\counter0-9\obj\Debug\counter0-9.vbprojAssemblyReference.cache
+C:\Users\test001\source\repos\counter0-9\counter0-9\obj\Debug\counter0_9.Form1.resources
+C:\Users\test001\source\repos\counter0-9\counter0-9\obj\Debug\counter0_9.Resources.resources
+C:\Users\test001\source\repos\counter0-9\counter0-9\obj\Debug\counter0-9.vbproj.GenerateResource.cache
+C:\Users\test001\source\repos\counter0-9\counter0-9\obj\Debug\counter0-9.exe
+C:\Users\test001\source\repos\counter0-9\counter0-9\obj\Debug\counter0-9.xml
+C:\Users\test001\source\repos\counter0-9\counter0-9\obj\Debug\counter0-9.pdb
