@@ -281,7 +281,7 @@ Partial Class Form1
         'Button1
         '
         Me.Button1.BackColor = System.Drawing.SystemColors.ButtonFace
-        Me.Button1.Location = New System.Drawing.Point(96, 292)
+        Me.Button1.Location = New System.Drawing.Point(101, 292)
         Me.Button1.Name = "Button1"
         Me.Button1.Size = New System.Drawing.Size(75, 23)
         Me.Button1.TabIndex = 25
@@ -300,9 +300,9 @@ Partial Class Form1
         'Button2
         '
         Me.Button2.BackColor = System.Drawing.SystemColors.ButtonFace
-        Me.Button2.Location = New System.Drawing.Point(15, 292)
+        Me.Button2.Location = New System.Drawing.Point(11, 292)
         Me.Button2.Name = "Button2"
-        Me.Button2.Size = New System.Drawing.Size(75, 23)
+        Me.Button2.Size = New System.Drawing.Size(52, 23)
         Me.Button2.TabIndex = 27
         Me.Button2.Text = "Reset"
         Me.Button2.UseVisualStyleBackColor = False
@@ -310,7 +310,7 @@ Partial Class Form1
         'Label27
         '
         Me.Label27.BackColor = System.Drawing.Color.FromArgb(CType(CType(224, Byte), Integer), CType(CType(224, Byte), Integer), CType(CType(224, Byte), Integer))
-        Me.Label27.Location = New System.Drawing.Point(177, 292)
+        Me.Label27.Location = New System.Drawing.Point(69, 292)
         Me.Label27.Name = "Label27"
         Me.Label27.Size = New System.Drawing.Size(28, 23)
         Me.Label27.TabIndex = 28
@@ -354,7 +354,7 @@ Partial Class Form1
         Me.MaximizeBox = False
         Me.Name = "Form1"
         Me.ShowIcon = False
-        Me.Text = "Form1"
+        Me.Text = "5x5 Counter"
         Me.ResumeLayout(False)
 
     End Sub

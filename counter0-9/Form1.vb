@@ -11,9 +11,6 @@
         sw.Stop()
     End Sub
 
-    Private Sub Label1_Paint(sender As Object, e As PaintEventArgs) Handles Label1.Paint
-
-    End Sub
 
     Private Sub Label26_Paint(sender As Object, e As PaintEventArgs) Handles Label26.Paint
 
